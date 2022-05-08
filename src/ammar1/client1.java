@@ -1,5 +1,5 @@
 package ammar1;
-// moro moro
+// moro moro1
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
